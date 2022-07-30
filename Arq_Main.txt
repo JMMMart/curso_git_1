@@ -1,1 +1,2 @@
 Arquivo criado via ferramenta na Branch Main
+Criado feature/a e alterado por ela
